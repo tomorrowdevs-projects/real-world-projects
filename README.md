@@ -1,6 +1,6 @@
 # Real-World Projects
 
-Let's increase the skills level of the newcomers Developer, by directly involving the Tech Community itself!
+### Let's increase the skills level of the newcoming Developer, by directly involving the Tech Community itself!
 
 Our purpose is to create a collection of useful real-world projects to **really** learn Programming with a learn-by-doing approach.
 

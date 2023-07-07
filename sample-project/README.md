@@ -17,6 +17,6 @@ Some project instructions.
 
 Some useful project links.
 
-# Credits
+# CREDITS
 
-Your Name and Surname
+Name Surname [link-to-your-github]

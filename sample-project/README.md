@@ -16,3 +16,7 @@ Some project instructions.
 # Documentation
 
 Some useful project links.
+
+# Credits
+
+Your Name and Surname

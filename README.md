@@ -6,7 +6,9 @@ The purpose is to create a collection of useful real-world project to **really**
 
 Here are the contribution guidelines for this project.
 
-## Creating new projects
+## Submitting new projects
+
+You can submit a project by opening a Pull Request to this repo, or an Issue to discuss your idea
 
 New projects must observe the following rules:
 

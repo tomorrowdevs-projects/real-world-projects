@@ -1,11 +1,11 @@
 [
-    {
-        "numconto": "",
-        "via": "",
-        "citta": "",
-        "provincia": "",
-        "cap": "",
-        "stato": "",
-        "note": ""
-    }
+  {
+    "numconto": "",
+    "via": "",
+    "citta": "",
+    "provincia": "",
+    "cap": "",
+    "stato": "",
+    "note": ""
+  }
 ]
